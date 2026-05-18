@@ -48,6 +48,7 @@ serviceAccountKey.json
 *.env.*
 !.env.example
 !backend/.env.example
+!backend/.env.firebase.example
 !frontend/.env.example
 
 # Emergent platform internals
